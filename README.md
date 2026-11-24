@@ -1,0 +1,1 @@
+In this repo, there is a collection of projects I do as I am learning ML.
